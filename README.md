@@ -41,9 +41,7 @@ Tecendo Algoritmos é um repositório completo que te guia desde os fundamentos 
 8. **Integração de APIs**:
    - **Conceitos básicos de APIs**: Compreender o que são APIs, os diferentes tipos de APIs (RESTful, SOAP, GraphQL) e como elas são usadas para integrar sistemas.
    - **Consumo de APIs**: Aprender a consumir APIs de terceiros em suas aplicações, incluindo autenticação, consulta de endpoints e tratamento de respostas.
-   - **Desenvolvimento de APIs**: Est
-
-udar como desenvolver suas próprias APIs para disponibilizar dados e funcionalidades para outros sistemas, incluindo a definição de endpoints e formatos de dados.
+   - **Desenvolvimento de APIs**: Estudar como desenvolver suas próprias APIs para disponibilizar dados e funcionalidades para outros sistemas, incluindo a definição de endpoints e formatos de dados.
    - **Documentação de APIs**: Compreender a importância da documentação clara e completa das APIs, incluindo descrição de endpoints, parâmetros de requisição e exemplos de uso.
    - **Testes de APIs**: Praticar testes de integração de APIs para garantir que elas funcionem conforme o esperado, incluindo testes de carga e segurança.
 
