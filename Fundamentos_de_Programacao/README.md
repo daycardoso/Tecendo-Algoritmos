@@ -1,6 +1,6 @@
-### Fundamentos de Programação - Algoritmos e Estrutura de Dados
+### Fundamentos de Programação
 
-Este diretório aborda os conceitos fundamentais de programação, focando em algoritmos e estruturas de dados essenciais para o desenvolvimento de software eficiente e robusto.
+Este diretório aborda os conceitos fundamentais de programação, focando em desenvolvimento de software eficiente e robusto.
 
 1. **Tipos de dados**:
    - Este tópico engloba a compreensão não apenas dos tipos de dados primitivos, como inteiros e strings, mas também de estruturas de dados mais complexas, como arrays e dicionários. É crucial entender como cada tipo de dado é armazenado e manipulado na memória para otimizar o desempenho do programa.
