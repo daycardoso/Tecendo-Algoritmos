@@ -42,3 +42,40 @@
    - **Testes de APIs**: Praticar testes de integração de APIs para garantir que elas funcionem conforme o esperado, incluindo testes de carga e segurança.
 
 Esses tópicos abrangem uma variedade de conceitos e habilidades que são essenciais para se tornar um desenvolvedor de software completo e capaz de enfrentar desafios em diferentes áreas de desenvolvimento de software.
+### Estrutura de Pastas
+```markdown
+Tecendo-Algoritmos
+├── Fundamentos_de_Programacao
+│   ├── Tipos_Dados
+│   ├── Estruturas_Controle
+│   ├── Funcoes_Escopo
+│   └── Arrays_Colecoes
+├── Algoritmos_Estruturas_Dados
+│   ├── Busca_Ordenacao
+│   ├── Estruturas_Basicas
+│   └── Manipulacao_Dados
+├── Aprofundamento_Linguagens_Tecnologias
+│   ├── Sintaxe_Avancada
+│   ├── Bibliotecas_Frameworks
+│   └── Paradigmas_Programacao
+├── Estudo_Design_Software
+│   ├── Principios_SOLID
+│   ├── Design_Patterns
+│   └── Arquitetura_Software
+├── Colaboracao_Controle_Versao
+│   ├── Uso_Git
+│   └── Práticas_Colaboração
+├── Programacao_Concorrente
+|   ├── Conceitos_Fundamentais
+|   ├── Modelos_Concorrência
+|   ├── Sincronização_Comunicação
+|   ├── Problemas_Desafios
+|   └── Ferramentas_Frameworks
+├── Integracao_APIs
+|   ├── Conceitos_Basicos
+|   ├── Consumo_APIs
+|   ├── Desenvolvimento_APIs
+|   ├── Documentacao_APIs
+|   └── Testes_APIs
+```
+
