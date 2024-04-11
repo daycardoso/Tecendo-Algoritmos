@@ -7,7 +7,7 @@
    facilitam a vida das pessoas e abrem portas para novos mundos.
 <br>
 
-**Tecendo Algoritmos** é um repositório completo que te guia desde os fundamentos da programação até os tópicos mais avançados, como design de software, APIs e programação concorrente.
+**Tecendo Algoritmos** é um repositório que te guia desde os fundamentos da programação até os tópicos mais avançados, como design de software, APIs e programação concorrente.
 
 1. **Fundamentos de Programação**:
    - **Tipos de dados**: Este tópico engloba entender não apenas os tipos de dados primitivos, como inteiros e strings, mas também estruturas de dados mais complexas, como arrays e dicionários. É importante compreender como cada tipo de dado é armazenado e manipulado na memória.
