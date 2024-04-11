@@ -1,4 +1,12 @@
 # Tecendo-Algoritmos
+<br>
+
+> Programar não é apenas digitar linhas de código,<br>
+   mas sim dar vida a ideias,<br>
+   criando ferramentas que servem, <br>
+   facilitam a vida das pessoas e abrem portas para novos mundos.
+<br>
+
 **Tecendo Algoritmos** é um repositório completo que te guia desde os fundamentos da programação até os tópicos mais avançados, como design de software, APIs e programação concorrente.
 
 1. **Fundamentos de Programação**:
