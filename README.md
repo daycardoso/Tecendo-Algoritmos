@@ -29,7 +29,7 @@
 4. **Estudo de Design de Software**:
    - **Princípios SOLID**: Estudar e entender os cinco princípios SOLID e como aplicá-los no design de software. Isso inclui entender como cada princípio promove a manutenibilidade, escalabilidade e flexibilidade do código.
    - **Design patterns**: Estudar padrões de design comuns e suas aplicações práticas. Isso inclui padrões de criação, estruturais e comportamentais, como Factory, Singleton, Observer, entre outros.
-   - **Arquitetura de software**: Compreender os diferentes estilos e padrões arquiteturais, como MVC, MVVM, arquitetura hexagonal e microservices. Cada arquitetura tem seus próprios benefícios e casos de uso.
+   - **Arquitetura de software**: Compreender os diferentes estilos e padrões arquiteturais, como MVC, MVVM, arquitetura hexagonal e microservices. Cada arquitetura tem seus próprios benefícios e casos de uso. (clean architecture)
 
 5. **Colaboração e Controle de Versão**:
    - **Uso do Git**: Aprender a utilizar o Git para controle de versão de código fonte. Isso inclui comandos básicos como clone, commit, push, pull, merge, entre outros.
