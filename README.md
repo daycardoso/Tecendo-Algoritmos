@@ -3,7 +3,7 @@
 
 > Programar não é apenas digitar linhas de código,<br>
    mas sim dar vida a ideias,<br>
-   criando ferramentas que servem, <br>
+   criando ferramentas que servem e <br>
    facilitam a vida das pessoas e abrem portas para novos mundos.
 <br>
 
